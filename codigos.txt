@@ -1,0 +1,16 @@
+cd Desktop/exemplo
+touch .gitignore
+git add .gitignore
+git add XPTO.txt
+git commit -m testando
+git push -u origin master
+git add teste.txt
+git checkout -b dev
+git checkout master
+git add -i
+git commit -m teste
+git push -u origin
+git add senhas.txt
+git commit
+git commit -m testetesteteste
+git clone https://github.com/francisco0421/teste1.git
